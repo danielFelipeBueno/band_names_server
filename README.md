@@ -1,1 +1,1 @@
-# band_names_server
+# band_names_server servidor app namd names
